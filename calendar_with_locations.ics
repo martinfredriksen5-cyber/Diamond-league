@@ -1,0 +1,427 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Martin Fredriksen//Diamond League Subscription Calendar 2026//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Diamond League 2026
+X-WR-CALDESC:Diamond League 2026 subscription calendar with alerts and loca
+ tions
+X-PUBLISHED-TTL:PT12H
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:diamond-league-shanghai-keqiao-2026@diamond-league-calendar
+DTSTAMP:20260608T202456Z
+CREATED:20260608T202456Z
+LAST-MODIFIED:20260608T202456Z
+SEQUENCE:1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SUMMARY:Diamond League: Shanghai/Keqiao
+LOCATION:China Textile City Sports Centre\, Shaoxing/Keqiao\, China
+DESCRIPTION:Diamond League 2026. Programme/results: https://shanghai.diamon
+ dleague.com/programme-results/
+URL:https://shanghai.diamondleague.com/programme-results/
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Diamond League i morgen
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Diamond League starter om 2 timer
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:diamond-league-xiamen-2026@diamond-league-calendar
+DTSTAMP:20260608T202456Z
+CREATED:20260608T202456Z
+LAST-MODIFIED:20260608T202456Z
+SEQUENCE:1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SUMMARY:Diamond League: Xiamen
+LOCATION:Egret Stadium\, Xiamen\, China
+DESCRIPTION:Diamond League 2026. Programme/results: https://xiamen.diamondl
+ eague.com/programme-results/
+URL:https://xiamen.diamondleague.com/programme-results/
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260524
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Diamond League i morgen
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Diamond League starter om 2 timer
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:diamond-league-rabat-2026@diamond-league-calendar
+DTSTAMP:20260608T202456Z
+CREATED:20260608T202456Z
+LAST-MODIFIED:20260608T202456Z
+SEQUENCE:1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SUMMARY:Diamond League: Rabat
+LOCATION:Complexe Sportif Prince Moulay Abdellah\, Rabat\, Morocco
+DESCRIPTION:Diamond League 2026. Programme/results: https://rabat.diamondle
+ ague.com/programme-results/
+URL:https://rabat.diamondleague.com/programme-results/
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Diamond League i morgen
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Diamond League starter om 2 timer
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:diamond-league-rome-2026@diamond-league-calendar
+DTSTAMP:20260608T202456Z
+CREATED:20260608T202456Z
+LAST-MODIFIED:20260608T202456Z
+SEQUENCE:1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SUMMARY:Diamond League: Rome
+LOCATION:Stadio Olimpico\, Rome\, Italy
+DESCRIPTION:Diamond League 2026. Programme/results: https://rome.diamondlea
+ gue.com/programme-results/
+URL:https://rome.diamondleague.com/programme-results/
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Diamond League i morgen
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Diamond League starter om 2 timer
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:diamond-league-stockholm-2026@diamond-league-calendar
+DTSTAMP:20260608T202456Z
+CREATED:20260608T202456Z
+LAST-MODIFIED:20260608T202456Z
+SEQUENCE:1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SUMMARY:Diamond League: Stockholm
+LOCATION:Olympiastadion\, Stockholm\, Sweden
+DESCRIPTION:Diamond League 2026. Programme/results: https://stockholm.diamo
+ ndleague.com/programme-results/
+URL:https://stockholm.diamondleague.com/programme-results/
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Diamond League i morgen
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Diamond League starter om 2 timer
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:diamond-league-oslo-2026@diamond-league-calendar
+DTSTAMP:20260608T202456Z
+CREATED:20260608T202456Z
+LAST-MODIFIED:20260608T202456Z
+SEQUENCE:1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SUMMARY:Diamond League: Oslo
+LOCATION:Bislett Stadion\, Oslo\, Norway
+DESCRIPTION:Diamond League 2026. Programme/results: https://oslo.diamondlea
+ gue.com/programme-results/
+URL:https://oslo.diamondleague.com/programme-results/
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Diamond League i morgen
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Diamond League starter om 2 timer
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:diamond-league-doha-2026@diamond-league-calendar
+DTSTAMP:20260608T202456Z
+CREATED:20260608T202456Z
+LAST-MODIFIED:20260608T202456Z
+SEQUENCE:1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SUMMARY:Diamond League: Doha
+LOCATION:Khalifa International Stadium\, Doha\, Qatar
+DESCRIPTION:Diamond League 2026. Programme/results: https://doha.diamondlea
+ gue.com/programme-results/
+URL:https://doha.diamondleague.com/programme-results/
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Diamond League i morgen
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Diamond League starter om 2 timer
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:diamond-league-paris-2026@diamond-league-calendar
+DTSTAMP:20260608T202456Z
+CREATED:20260608T202456Z
+LAST-MODIFIED:20260608T202456Z
+SEQUENCE:1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SUMMARY:Diamond League: Paris
+LOCATION:Stade Charléty\, Paris\, France
+DESCRIPTION:Diamond League 2026. Programme/results: https://paris.diamondle
+ ague.com/programme-results/
+URL:https://paris.diamondleague.com/programme-results/
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260629
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Diamond League i morgen
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Diamond League starter om 2 timer
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:diamond-league-eugene---day-1-2026@diamond-league-calendar
+DTSTAMP:20260608T202456Z
+CREATED:20260608T202456Z
+LAST-MODIFIED:20260608T202456Z
+SEQUENCE:1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SUMMARY:Diamond League: Eugene - Day 1
+LOCATION:Hayward Field\, Eugene\, OR\, USA
+DESCRIPTION:Diamond League 2026. Programme/results: https://eugene.diamondl
+ eague.com/programme-results/
+URL:https://eugene.diamondleague.com/programme-results/
+DTSTART;TZID=America/Los_Angeles:20260703T180000
+DTEND;TZID=America/Los_Angeles:20260703T210000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Diamond League i morgen
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Diamond League starter om 2 timer
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:diamond-league-eugene---day-2-2026@diamond-league-calendar
+DTSTAMP:20260608T202456Z
+CREATED:20260608T202456Z
+LAST-MODIFIED:20260608T202456Z
+SEQUENCE:1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SUMMARY:Diamond League: Eugene - Day 2
+LOCATION:Hayward Field\, Eugene\, OR\, USA
+DESCRIPTION:Diamond League 2026. Programme/results: https://eugene.diamondl
+ eague.com/programme-results/
+URL:https://eugene.diamondleague.com/programme-results/
+DTSTART;TZID=America/Los_Angeles:20260704T120000
+DTEND;TZID=America/Los_Angeles:20260704T150000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Diamond League i morgen
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Diamond League starter om 2 timer
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:diamond-league-monaco-2026@diamond-league-calendar
+DTSTAMP:20260608T202456Z
+CREATED:20260608T202456Z
+LAST-MODIFIED:20260608T202456Z
+SEQUENCE:1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SUMMARY:Diamond League: Monaco
+LOCATION:Stade Louis II\, Monaco
+DESCRIPTION:Diamond League 2026. Programme/results: https://monaco.diamondl
+ eague.com/programme-results/
+URL:https://monaco.diamondleague.com/programme-results/
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Diamond League i morgen
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Diamond League starter om 2 timer
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:diamond-league-london-2026@diamond-league-calendar
+DTSTAMP:20260608T202456Z
+CREATED:20260608T202456Z
+LAST-MODIFIED:20260608T202456Z
+SEQUENCE:1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SUMMARY:Diamond League: London
+LOCATION:London Stadium\, London\, Great Britain
+DESCRIPTION:Diamond League 2026. Programme/results: https://london.diamondl
+ eague.com/programme-results/
+URL:https://london.diamondleague.com/programme-results/
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Diamond League i morgen
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Diamond League starter om 2 timer
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:diamond-league-lausanne-2026@diamond-league-calendar
+DTSTAMP:20260608T202456Z
+CREATED:20260608T202456Z
+LAST-MODIFIED:20260608T202456Z
+SEQUENCE:1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SUMMARY:Diamond League: Lausanne
+LOCATION:Stade Olympique de la Pontaise\, Lausanne\, Switzerland
+DESCRIPTION:Diamond League 2026. Programme/results: https://lausanne.diamon
+ dleague.com/programme-results/
+URL:https://lausanne.diamondleague.com/programme-results/
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260822
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Diamond League i morgen
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Diamond League starter om 2 timer
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:diamond-league-silesia-2026@diamond-league-calendar
+DTSTAMP:20260608T202456Z
+CREATED:20260608T202456Z
+LAST-MODIFIED:20260608T202456Z
+SEQUENCE:1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SUMMARY:Diamond League: Silesia
+LOCATION:Stadion Śląski\, Chorzów\, Poland
+DESCRIPTION:Diamond League 2026. Programme/results: https://silesia.diamond
+ league.com/programme-results/
+URL:https://silesia.diamondleague.com/programme-results/
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Diamond League i morgen
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Diamond League starter om 2 timer
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:diamond-league-zurich-2026@diamond-league-calendar
+DTSTAMP:20260608T202456Z
+CREATED:20260608T202456Z
+LAST-MODIFIED:20260608T202456Z
+SEQUENCE:1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SUMMARY:Diamond League: Zurich
+LOCATION:Letzigrund\, Zürich\, Switzerland
+DESCRIPTION:Diamond League 2026. Programme/results: https://zurich.diamondl
+ eague.com/programme-results/
+URL:https://zurich.diamondleague.com/programme-results/
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Diamond League i morgen
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Diamond League starter om 2 timer
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:diamond-league-final-brussels-2026@diamond-league-calendar
+DTSTAMP:20260608T202456Z
+CREATED:20260608T202456Z
+LAST-MODIFIED:20260608T202456Z
+SEQUENCE:1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SUMMARY:Diamond League Final: Brussels
+LOCATION:King Baudouin Stadium\, Brussels\, Belgium
+DESCRIPTION:Diamond League 2026. Programme/results: https://brussels.diamon
+ dleague.com/programme-results/
+URL:https://brussels.diamondleague.com/programme-results/
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260906
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Diamond League i morgen
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Diamond League starter om 2 timer
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
